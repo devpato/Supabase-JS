@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+    max-width: 800px;
+  }
+
+  section {
+    margin-bottom: 6rem;
+  }
+
+  td {
+    vertical-align: middle;
+  }
